@@ -1,0 +1,4 @@
+﻿  learn24.1.21.c
+D:\please look svcr\xiangmu\learn24.1.21\learn24.1.21\learn24.1.21.c(89,28): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\please look svcr\xiangmu\learn24.1.21\learn24.1.21\learn24.1.21.c(89,28): warning C4024: “my_strlen”: 形参和实参 1 的类型不同
+  learn24.1.21.vcxproj -> D:\please look svcr\xiangmu\learn24.1.21\x64\Debug\learn24.1.21.exe

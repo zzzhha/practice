@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\thread_binary_tree24.7.11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3344FBB3-7215-4231-80AF-E57152887279}|thread_binary_tree24.7.11\\thread_binary_tree24.7.11.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\thread_binary_tree24.7.11\\thread_binary_tree24.7.11\\thread_binary_tree24.7.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3344FBB3-7215-4231-80AF-E57152887279}|thread_binary_tree24.7.11\\thread_binary_tree24.7.11.vcxproj|solutionrelative:thread_binary_tree24.7.11\\thread_binary_tree24.7.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "thread_binary_tree24.7.11.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\thread_binary_tree24.7.11\\thread_binary_tree24.7.11\\thread_binary_tree24.7.11.cpp",
+              "RelativeDocumentMoniker": "thread_binary_tree24.7.11\\thread_binary_tree24.7.11.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\thread_binary_tree24.7.11\\thread_binary_tree24.7.11\\thread_binary_tree24.7.11.cpp",
+              "RelativeToolTip": "thread_binary_tree24.7.11\\thread_binary_tree24.7.11.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-11T12:51:10.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

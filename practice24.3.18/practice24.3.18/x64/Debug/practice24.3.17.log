@@ -1,0 +1,6 @@
+﻿  practice24.3.18.c
+D:\please look svcr\xiangmu\practice24.3.17\practice24.3.17\practice24.3.18.c(8,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\please look svcr\xiangmu\practice24.3.17\practice24.3.17\practice24.3.18.c(11,17): warning C4133: “函数”: 从“int [1005]”到“char *”的类型不兼容
+D:\please look svcr\xiangmu\practice24.3.17\practice24.3.17\practice24.3.18.c(25,20): warning C4090: “=”: 不同的“const”限定符
+D:\please look svcr\xiangmu\practice24.3.17\practice24.3.17\practice24.3.18.c(16,7): warning C4047: “初始化”:“int”与“char *”的间接级别不同
+  practice24.3.17.vcxproj -> D:\please look svcr\xiangmu\practice24.3.17\x64\Debug\practice24.3.18.exe

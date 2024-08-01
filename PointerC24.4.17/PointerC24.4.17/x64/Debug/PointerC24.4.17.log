@@ -1,0 +1,3 @@
+﻿  PointerC24.4.17.c
+D:\please look svcr\xiangmu\PointerC24.4.17\PointerC24.4.17\PointerC24.4.17.c(9,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PointerC24.4.17.vcxproj -> D:\please look svcr\xiangmu\PointerC24.4.17\x64\Debug\PointerC24.4.17.exe

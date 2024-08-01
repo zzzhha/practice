@@ -1,0 +1,4 @@
+﻿  luogu.prac24.4.23.cpp
+D:\please look svcr\xiangmu\c++\luogu.prac24.4.23\luogu.prac24.4.23\luogu.prac24.4.23.cpp(18,17): error C3873: “0x3002”: 不允许将此字符作为标识符的第一个字符
+D:\please look svcr\xiangmu\c++\luogu.prac24.4.23\luogu.prac24.4.23\luogu.prac24.4.23.cpp(18,17): error C2065: “。”: 未声明的标识符
+D:\please look svcr\xiangmu\c++\luogu.prac24.4.23\luogu.prac24.4.23\luogu.prac24.4.23.cpp(19,3): error C2146: 语法错误: 缺少“;”(在标识符“f”的前面)

@@ -1,0 +1,4 @@
+﻿  luogu_prac_24.5.8.c
+D:\please look svcr\xiangmu\c\luogu_prac_24.5.8\luogu_prac_24.5.8\luogu_prac_24.5.8.c(12,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\please look svcr\xiangmu\c\luogu_prac_24.5.8\luogu_prac_24.5.8\luogu_prac_24.5.8.c(23,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  luogu_prac_24.5.8.vcxproj -> D:\please look svcr\xiangmu\c\luogu_prac_24.5.8\x64\Debug\luogu_prac_24.5.8.exe

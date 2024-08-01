@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Queue24.7.10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07EE147E-6DD5-431A-B31A-27E51E4B4DBA}|Queue24.7.10\\Queue24.7.10.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Queue24.7.10\\Queue24.7.10\\Queue24.7.10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07EE147E-6DD5-431A-B31A-27E51E4B4DBA}|Queue24.7.10\\Queue24.7.10.vcxproj|solutionrelative:Queue24.7.10\\Queue24.7.10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue24.7.10.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Queue24.7.10\\Queue24.7.10\\Queue24.7.10.cpp",
+              "RelativeDocumentMoniker": "Queue24.7.10\\Queue24.7.10.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Queue24.7.10\\Queue24.7.10\\Queue24.7.10.cpp",
+              "RelativeToolTip": "Queue24.7.10\\Queue24.7.10.cpp",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-10T03:22:43.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

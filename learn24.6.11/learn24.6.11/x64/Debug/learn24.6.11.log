@@ -1,0 +1,4 @@
+﻿  learn24.6.11.c
+D:\please look svcr\xiangmu\c\learn24.6.11\learn24.6.11\learn24.6.11.c(481,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\please look svcr\xiangmu\c\learn24.6.11\learn24.6.11\learn24.6.11.c(161): warning C4716: “init_cirnode”: 必须返回一个值
+  learn24.6.11.vcxproj -> D:\please look svcr\xiangmu\c\learn24.6.11\x64\Debug\learn24.6.11.exe

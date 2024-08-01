@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\linklist24.7.9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B08B6D9D-D0E1-4411-ABE0-AB7780B16664}|linklist24.7.9\\linklist24.7.9.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\linklist24.7.9\\linklist24.7.9\\linklist24.7.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B08B6D9D-D0E1-4411-ABE0-AB7780B16664}|linklist24.7.9\\linklist24.7.9.vcxproj|solutionrelative:linklist24.7.9\\linklist24.7.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "linklist24.7.9.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\linklist24.7.9\\linklist24.7.9\\linklist24.7.9.cpp",
+              "RelativeDocumentMoniker": "linklist24.7.9\\linklist24.7.9.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\linklist24.7.9\\linklist24.7.9\\linklist24.7.9.cpp",
+              "RelativeToolTip": "linklist24.7.9\\linklist24.7.9.cpp",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAAAKkBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-09T05:54:44.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

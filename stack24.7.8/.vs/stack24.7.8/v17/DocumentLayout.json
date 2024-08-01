@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\stack24.7.8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A189FB-FCEE-407D-8C6F-F51BC4B9D1B9}|stack24.7.8\\stack24.7.8.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\stack24.7.8\\stack24.7.8\\stack24.7.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2A189FB-FCEE-407D-8C6F-F51BC4B9D1B9}|stack24.7.8\\stack24.7.8.vcxproj|solutionrelative:stack24.7.8\\stack24.7.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u8D75\u98DE\\AppData\\Local\\Temp\\84119323-fa8e-4239-9b04-c12d9412250e_\u6808\u7684\u5B9E\u73B0\u4EE3\u7801.zip.50e\\\u6808\u7684\u5B9E\u73B0\u4EE3\u7801\\\u94FE\u6808.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u4E0B\u8F7D\\2.linklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u4E0B\u8F7D\\3.stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u94FE\u6808.c",
+              "DocumentMoniker": "C:\\Users\\\u8D75\u98DE\\AppData\\Local\\Temp\\84119323-fa8e-4239-9b04-c12d9412250e_\u6808\u7684\u5B9E\u73B0\u4EE3\u7801.zip.50e\\\u6808\u7684\u5B9E\u73B0\u4EE3\u7801\\\u94FE\u6808.c",
+              "ToolTip": "C:\\Users\\\u8D75\u98DE\\AppData\\Local\\Temp\\84119323-fa8e-4239-9b04-c12d9412250e_\u6808\u7684\u5B9E\u73B0\u4EE3\u7801.zip.50e\\\u6808\u7684\u5B9E\u73B0\u4EE3\u7801\\\u94FE\u6808.c [\u53EA\u8BFB]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-08T14:09:34.353Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stack24.7.8.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\stack24.7.8\\stack24.7.8\\stack24.7.8.cpp",
+              "RelativeDocumentMoniker": "stack24.7.8\\stack24.7.8.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\stack24.7.8\\stack24.7.8\\stack24.7.8.cpp*",
+              "RelativeToolTip": "stack24.7.8\\stack24.7.8.cpp*",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAHIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-08T12:58:10.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2.linklist.cpp",
+              "DocumentMoniker": "D:\\\u4E0B\u8F7D\\2.linklist.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u4E0B\u8F7D\\2.linklist.cpp",
+              "ToolTip": "D:\\\u4E0B\u8F7D\\2.linklist.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\\u4E0B\u8F7D\\2.linklist.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-08T13:46:47.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3.stack.cpp",
+              "DocumentMoniker": "D:\\\u4E0B\u8F7D\\3.stack.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u4E0B\u8F7D\\3.stack.cpp",
+              "ToolTip": "D:\\\u4E0B\u8F7D\\3.stack.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\\u4E0B\u8F7D\\3.stack.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvzIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-08T13:14:00.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
