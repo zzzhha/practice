@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="bubble_sort.cpp" />
     <ClCompile Include="insert_sort.cpp" />
+    <ClCompile Include="merge_sort.cpp" />
     <ClCompile Include="quick_sort.cpp" />
     <ClCompile Include="select_sort.cpp" />
     <ClCompile Include="shell_sort.cpp" />

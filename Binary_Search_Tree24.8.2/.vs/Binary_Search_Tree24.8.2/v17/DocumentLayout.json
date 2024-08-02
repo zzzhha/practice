@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Binary_Search_Tree24.8.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F51C8F1F-A8B8-4343-AE72-B9089A3D4102}|Binary_Search_Tree24.8.2\\Binary_Search_Tree24.8.2.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Binary_Search_Tree24.8.2\\Binary_Search_Tree24.8.2\\Binary_Search_Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F51C8F1F-A8B8-4343-AE72-B9089A3D4102}|Binary_Search_Tree24.8.2\\Binary_Search_Tree24.8.2.vcxproj|solutionrelative:Binary_Search_Tree24.8.2\\Binary_Search_Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Binary_Search_Tree.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Binary_Search_Tree24.8.2\\Binary_Search_Tree24.8.2\\Binary_Search_Tree.cpp",
+              "RelativeDocumentMoniker": "Binary_Search_Tree24.8.2\\Binary_Search_Tree.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Binary_Search_Tree24.8.2\\Binary_Search_Tree24.8.2\\Binary_Search_Tree.cpp",
+              "RelativeToolTip": "Binary_Search_Tree24.8.2\\Binary_Search_Tree.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-02T12:04:37.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
