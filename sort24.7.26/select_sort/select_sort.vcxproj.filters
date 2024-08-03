@@ -33,9 +33,24 @@
     <ClCompile Include="merge_sort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="radix_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\heap_sort\heap_sort\heap_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C++_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="0.sort_text.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sort.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

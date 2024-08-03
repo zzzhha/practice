@@ -1,20 +1,21 @@
 //#include "0.sort_text.h"
-//
-//
-//
-//void insert_sort(int* arr, int l, int r) {
-//	for (int i = l + 1; i < r; i++)
-//	{
-//		int j = i;
-//		while (j > l&&arr[j]<arr[j-1])
-//		{
-//			swap(arr[j], arr[j - 1]);
-//			j--;
-//		}
-//	}
-//	return;
-//}
-//
+//²åÈëÅÅÐò
+#include"sort.h"
+using namespace std;
+
+void insert_sort(int* arr, int l, int r) {
+	for (int i = l + 1; i < r; i++)
+	{
+		int j = i;
+		while (j > l&&arr[j]<arr[j-1])
+		{
+			swap(arr[j], arr[j - 1]);
+			j--;
+		}
+	}
+	return;
+}
+
 //void unguarded_insert_sort(int* arr, int l, int r)
 //{
 //	int ind = l;

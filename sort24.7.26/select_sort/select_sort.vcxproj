@@ -127,15 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\heap_sort\heap_sort\heap_sort.cpp" />
     <ClCompile Include="bubble_sort.cpp" />
+    <ClCompile Include="C++_sort.cpp" />
     <ClCompile Include="insert_sort.cpp" />
     <ClCompile Include="merge_sort.cpp" />
+    <ClCompile Include="practice_sort.cpp" />
     <ClCompile Include="quick_sort.cpp" />
+    <ClCompile Include="radix_sort.cpp" />
     <ClCompile Include="select_sort.cpp" />
     <ClCompile Include="shell_sort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="0.sort_text.h" />
+    <ClInclude Include="sort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
