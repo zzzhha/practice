@@ -2,24 +2,53 @@
 #include<vector>
 #include<cstdlib>
 #include<ctime>
+#include<string>
 using namespace std;
 
+class animal {
+public:
+	string name;
+	int age;
+	char sex;
 
-int main()
+	animal(string name, int age, char sex) {
+		this->name = name;
+		this->age = age;
+		this->sex = sex;
+	}
+
+};
+
+class dog :public animal
 {
-	bool arr[25][25] = {0};
-	long long a[25][25] = { 0 };
-	a[1][1] = 1;
-	int x, y, n, m;
-	cin >> n >> m >> x >> y;
-	n++;
-	m++;
-	x++;
-	y++;
-	arr[x][y] = 1;
+public:
+	dog(string name, int age, char sex) 
+	{
+		
+	}
+};
 
+
+int main() {
+	dog s("ÕÅÈý", 20, 'n');
 	return 0;
 }
+
+//int main()
+//{
+//	bool arr[25][25] = {0};
+//	long long a[25][25] = { 0 };
+//	a[1][1] = 1;
+//	int x, y, n, m;
+//	cin >> n >> m >> x >> y;
+//	n++;
+//	m++;
+//	x++;
+//	y++;
+//	arr[x][y] = 1;
+//
+//	return 0;
+//}
 
 
 //int main()

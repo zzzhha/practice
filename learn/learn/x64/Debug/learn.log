@@ -1,3 +1,2 @@
 ﻿  learn_pace24.7.11.cpp
-D:\please look svcr\xiangmu\c & c++\learn\learn\learn_pace24.7.11.cpp(12,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  learn.vcxproj -> D:\please look svcr\xiangmu\c & c++\learn\x64\Debug\learn.exe
+D:\please look svcr\xiangmu\c & c++\learn\learn\learn_pace24.7.11.cpp(25,5): error C2512: “animal”: 没有合适的默认构造函数可用

@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\hash_table\hash_table\hash_table.cpp" />
     <ClCompile Include="binary_search.cpp" />
+    <ClCompile Include="practice.cpp" />
     <ClCompile Include="skiplist.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
