@@ -1,2 +1,12 @@
-﻿  所有事件及其背景.cpp
-  梦境逃离.vcxproj -> D:\please look svcr\xiangmu\c\梦境逃离\x64\Debug\梦境逃离.exe
+﻿  主界面.cpp
+  开发人员界面.cpp
+  成就系统.cpp
+  所有事件及其背景.cpp
+  所有道具及其图片.cpp
+  梦境逃离.cpp
+  游戏帮助界面.cpp
+  游戏界面.cpp
+  设置界面.cpp
+  齿轮设置.cpp
+  正在生成代码...
+  梦境逃离.vcxproj -> D:\please look svcr\xiangmu\c & c++\mengjigntaoli\x64\Debug\梦境逃离.exe
