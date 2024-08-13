@@ -19,7 +19,7 @@ int find(int x) {
 	}
 	return find(fa[x]);
 	////Â·¾¶Ñ¹Ëõ
-	// if(x!+f[x])
+	// if(x!=f[x])
 	//		return f[x]=find(f[x]);
 	// else
 	//		return x;

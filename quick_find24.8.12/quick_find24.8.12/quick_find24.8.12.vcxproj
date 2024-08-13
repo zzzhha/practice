@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="practice.cpp" />
     <ClCompile Include="quick_find.cpp" />
     <ClCompile Include="quick_union.cpp" />
   </ItemGroup>
