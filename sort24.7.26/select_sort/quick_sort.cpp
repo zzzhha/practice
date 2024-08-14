@@ -37,7 +37,8 @@ void unguarded_insert_sort(int* arr, int l, int r)
 
 #define threshold 16
 
-void __quick_sort_v4(int* arr, int l, int r)//通过减少判断条件来优化快排
+void __quick_sort_v4(int* arr, int l, int r)//16个数据以下快排速度与无监管的插入排序速度相差不多
+//故，在区间大于16个元素的情况下用快排，小于的时候用无监管的插入排序
 {	
 	while (r - l > threshold)
 	{
@@ -58,7 +59,7 @@ void __quick_sort_v4(int* arr, int l, int r)//通过减少判断条件来优化快排
 	return;
 }
 
-void quick_sort_v4(int* arr, int l, int r)//通过减少判断条件来优化快排
+void quick_sort_v4(int* arr, int l, int r)//通过数据大小来选择排序方法来达到优化
 {
 	__quick_sort_v4(arr, l, r);
 	unguarded_insert_sort(arr, l, r);
@@ -66,7 +67,8 @@ void quick_sort_v4(int* arr, int l, int r)//通过减少判断条件来优化快排
 }
 
 
-void quick_sort_v3(int* arr, int l, int r)//通过减少判断条件来优化快排
+void quick_sort_v3(int* arr, int l, int r)//通过在v2的基础上，再减少使用递归，将l-x的数用递归完成
+//x-r的数在本层函数排序
 {
 	if (r - l <= 2)
 	{
@@ -97,7 +99,7 @@ void quick_sort_v3(int* arr, int l, int r)//通过减少判断条件来优化快排
 
 
 
-void quick_sort_v2(int* arr, int l, int r)//通过减少判断条件来优化快排
+void quick_sort_v2(int* arr, int l, int r)//通过改变基准值来优化
 {
 	if (r - l <= 2)
 	{
