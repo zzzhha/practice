@@ -18,5 +18,8 @@
     <ClCompile Include="系统栈模拟法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="拓扑序分解法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

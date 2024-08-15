@@ -115,6 +115,96 @@ void non_in_order(Node* root) {
 	return;
 }
 
+void quick_sort(int* arr, int l, int r)
+{
+	if (r - l <= 2)//code 0
+	{
+		if (r - l <= 1)return;
+		if (arr[l] > arr[l + 1])
+			swap(arr[l], arr[l + 1]);
+		return;
+	}
+	//code 1,partition
+	int x = l, y = r - 1, z = arr[l];
+	while (x < y)
+	{
+		while (x < y && z <= arr[y])--y;
+		if (x < y) arr[x++] = arr[y];
+		while (x < y && arr[x] <= z)++x;
+		if (x < y)arr[y--] = arr[x];
+	}
+	arr[x] = z;
+	//code 2
+	quick_sort(arr, l, x);
+	//code 3
+	quick_sort(arr, x + 1, r);
+	//code 4
+	return;
+}
+
+struct DATa {
+	int* arr, l, r;//数据和范围
+	int x;//快排的局部变量
+	int code;//状态码
+	DATa(int *arr,int l,int r):arr(arr),l(l),r(r),code(0){}
+};
+
+void non_quick_sort(int* arr, int l, int r) {
+	stack<DATa> s;
+	DATa d(arr, l, r);
+	s.push(d);
+	while (!s.empty()) {
+		DATa& cur = s.top();
+		switch (cur.code) {
+		case 0:
+			if (cur.r - cur.l <= 2)//code 0
+			{
+				if (cur.r - cur.l <= 1)s.pop();
+				else 
+				{
+					if (cur.arr[cur.l] > cur.arr[cur.l + 1])
+						swap(cur.arr[cur.l], cur.arr[cur.l + 1]);
+				}
+				s.pop();
+			}
+			else
+			{
+				cur.code = 1;
+			}
+			break;
+		case 1:
+			int x = cur.l, y = cur.r - 1, z = cur.arr[cur.l];
+			while (x < y)
+			{
+				while (x < y && z <= cur.arr[y])--y;
+				if (x < y) cur.arr[x++] = cur.arr[y];
+				while (x < y && cur.arr[x] <= z)++x;
+				if (x < y)cur.arr[y--] = cur.arr[x];
+			}
+			cur.arr[x] = z;
+			cur.x = x;
+			cur.code = 2;
+			break;
+		case 2:
+			DATa d(cur.arr, cur.l, cur.x);
+			cur.code = 3;
+			s.push(d);
+			break;
+		case 3:
+			DATa d(cur.arr, cur.x + 1, cur.r);
+			cur.code = 4;
+			s.push(d);
+			break;
+		case 4:
+			s.pop();
+			break;
+		case 0:
+
+		}
+	}
+
+}
+
 int main() {
 	int n;
 	while (cin >> n)
