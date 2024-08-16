@@ -3,8 +3,15 @@
   "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Haffman24.7.13\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{794D3A70-A2B4-4375-B8E1-5848B84B83E7}|Haffman24.7.13\\Haffman24.7.13.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\haffman24.7.13\\Haffman24.7.13\\01haffmantree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{794D3A70-A2B4-4375-B8E1-5848B84B83E7}|Haffman24.7.13\\Haffman24.7.13.vcxproj|solutionrelative:Haffman24.7.13\\01haffmantree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{794D3A70-A2B4-4375-B8E1-5848B84B83E7}|Haffman24.7.13\\Haffman24.7.13.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\haffman24.7.13\\Haffman24.7.13\\Haffman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{794D3A70-A2B4-4375-B8E1-5848B84B83E7}|Haffman24.7.13\\Haffman24.7.13.vcxproj|solutionrelative:Haffman24.7.13\\Haffman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u4E0B\u8F7D\\4.haffman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +26,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "01haffmantree.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Haffman24.7.13\\Haffman24.7.13\\01haffmantree.cpp",
+              "RelativeDocumentMoniker": "Haffman24.7.13\\01haffmantree.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Haffman24.7.13\\Haffman24.7.13\\01haffmantree.cpp",
+              "RelativeToolTip": "Haffman24.7.13\\01haffmantree.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T12:46:17.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Haffman.cpp",
               "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Haffman24.7.13\\Haffman24.7.13\\Haffman.cpp",
               "RelativeDocumentMoniker": "Haffman24.7.13\\Haffman.cpp",
               "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\Haffman24.7.13\\Haffman24.7.13\\Haffman.cpp",
               "RelativeToolTip": "Haffman24.7.13\\Haffman.cpp",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAAE4AAAAWAAAA",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAL8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-13T09:48:32.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4.haffman.cpp",
+              "DocumentMoniker": "D:\\\u4E0B\u8F7D\\4.haffman.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u4E0B\u8F7D\\4.haffman.cpp",
+              "ToolTip": "D:\\\u4E0B\u8F7D\\4.haffman.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\\u4E0B\u8F7D\\4.haffman.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv1cAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T12:33:36.865Z",
               "EditorCaption": ""
             }
           ]

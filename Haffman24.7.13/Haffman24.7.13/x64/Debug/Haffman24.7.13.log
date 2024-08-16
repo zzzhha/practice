@@ -1,3 +1,5 @@
-﻿  Haffman.cpp
-D:\please look svcr\xiangmu\c & c++\haffman24.7.13\Haffman24.7.13\Haffman.cpp(80,1): warning C4715: “pushHeap”: 不是所有的控件路径都返回值
+﻿  01haffmantree.cpp
+D:\please look svcr\xiangmu\c & c++\haffman24.7.13\Haffman24.7.13\01haffmantree.cpp(80,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Haffman.cpp
+  正在生成代码...
   Haffman24.7.13.vcxproj -> D:\please look svcr\xiangmu\c & c++\haffman24.7.13\x64\Debug\Haffman24.7.13.exe

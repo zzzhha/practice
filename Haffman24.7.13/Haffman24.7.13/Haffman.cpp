@@ -98,7 +98,7 @@ void clearHeap(Heap* h)
 }
 
 Node* getNewNode(int freq, char ch) {
-	Node* p = new Node;
+	Node* p = (Node*)malloc(sizeof(Node));
 	p->ch = ch;
 	p->freq = freq;
 	p->lchild = p->rchild = NULL;
@@ -159,7 +159,7 @@ void clear(Node* root) {
 	if (root == NULL) return;
 	clear(root->lchild);
 	clear(root->lchild);
-	delete root;
+	free (root);
 }
 
 char* char_code[128]{ 0 };
@@ -180,7 +180,7 @@ int main() {
 	char s[10];
 	int n, freq;
 	cin >> n;
-	Node** node_arr = new(nothrow) Node * [n];
+	Node** node_arr = (Node**)malloc(sizeof(Node*) * n);
 	if (node_arr)
 	{
 		cout << "无法申请这么多内存" << endl;
