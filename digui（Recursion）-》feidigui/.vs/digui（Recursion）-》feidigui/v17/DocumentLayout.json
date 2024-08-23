@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2C9D21-DA9C-443D-8345-94B70C5D2D61}|digui\uFF08Recursion\uFF09-\u300Bfeidigui\\digui\uFF08Recursion\uFF09-\u300Bfeidigui.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u62D3\u6251\u5E8F\u5206\u89E3\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A2C9D21-DA9C-443D-8345-94B70C5D2D61}|digui\uFF08Recursion\uFF09-\u300Bfeidigui\\digui\uFF08Recursion\uFF09-\u300Bfeidigui.vcxproj|solutionrelative:digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u62D3\u6251\u5E8F\u5206\u89E3\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2C9D21-DA9C-443D-8345-94B70C5D2D61}|digui\uFF08Recursion\uFF09-\u300Bfeidigui\\digui\uFF08Recursion\uFF09-\u300Bfeidigui.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u7CFB\u7EDF\u6808\u6A21\u62DF\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A2C9D21-DA9C-443D-8345-94B70C5D2D61}|digui\uFF08Recursion\uFF09-\u300Bfeidigui\\digui\uFF08Recursion\uFF09-\u300Bfeidigui.vcxproj|solutionrelative:digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u7CFB\u7EDF\u6808\u6A21\u62DF\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u62D3\u6251\u5E8F\u5206\u89E3\u6CD5.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u62D3\u6251\u5E8F\u5206\u89E3\u6CD5.cpp",
+              "RelativeDocumentMoniker": "digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u62D3\u6251\u5E8F\u5206\u89E3\u6CD5.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u62D3\u6251\u5E8F\u5206\u89E3\u6CD5.cpp",
+              "RelativeToolTip": "digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u62D3\u6251\u5E8F\u5206\u89E3\u6CD5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T06:05:27.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u7CFB\u7EDF\u6808\u6A21\u62DF\u6CD5.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u7CFB\u7EDF\u6808\u6A21\u62DF\u6CD5.cpp",
+              "RelativeDocumentMoniker": "digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u7CFB\u7EDF\u6808\u6A21\u62DF\u6CD5.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u7CFB\u7EDF\u6808\u6A21\u62DF\u6CD5.cpp",
+              "RelativeToolTip": "digui\uFF08Recursion\uFF09-\u300Bfeidigui\\\u7CFB\u7EDF\u6808\u6A21\u62DF\u6CD5.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T08:19:56.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

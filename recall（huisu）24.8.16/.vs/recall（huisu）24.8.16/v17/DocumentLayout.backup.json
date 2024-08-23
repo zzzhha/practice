@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\recall\uFF08huisu\uFF0924.8.16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{645E33AD-9CAF-4DFD-96C4-6D2F0AE2B4A5}|recall\uFF08huisu\uFF0924.8.16\\recall\uFF08huisu\uFF0924.8.16.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\recall\uFF08huisu\uFF0924.8.16\\recall\uFF08huisu\uFF0924.8.16\\recall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{645E33AD-9CAF-4DFD-96C4-6D2F0AE2B4A5}|recall\uFF08huisu\uFF0924.8.16\\recall\uFF08huisu\uFF0924.8.16.vcxproj|solutionrelative:recall\uFF08huisu\uFF0924.8.16\\recall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "recall.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\recall\uFF08huisu\uFF0924.8.16\\recall\uFF08huisu\uFF0924.8.16\\recall.cpp",
+              "RelativeDocumentMoniker": "recall\uFF08huisu\uFF0924.8.16\\recall.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\recall\uFF08huisu\uFF0924.8.16\\recall\uFF08huisu\uFF0924.8.16\\recall.cpp",
+              "RelativeToolTip": "recall\uFF08huisu\uFF0924.8.16\\recall.cpp",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAmwMIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T12:45:10.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

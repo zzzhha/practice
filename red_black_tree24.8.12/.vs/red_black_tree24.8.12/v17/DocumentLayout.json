@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\red_black_tree24.8.12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAD6F6F-8F88-40C4-8B45-5A30ED61C92B}|red_black_tree24.8.12\\red_black_tree24.8.12.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\red_black_tree24.8.12\\red_black_tree24.8.12\\red_black_tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EAD6F6F-8F88-40C4-8B45-5A30ED61C92B}|red_black_tree24.8.12\\red_black_tree24.8.12.vcxproj|solutionrelative:red_black_tree24.8.12\\red_black_tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 447,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "red_black_tree.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\red_black_tree24.8.12\\red_black_tree24.8.12\\red_black_tree.cpp",
+              "RelativeDocumentMoniker": "red_black_tree24.8.12\\red_black_tree.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\red_black_tree24.8.12\\red_black_tree24.8.12\\red_black_tree.cpp",
+              "RelativeToolTip": "red_black_tree24.8.12\\red_black_tree.cpp",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAswI0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T07:22:55.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

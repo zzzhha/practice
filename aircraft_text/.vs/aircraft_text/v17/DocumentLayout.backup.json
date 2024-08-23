@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\aircraft_text\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DF7D79-D8D2-41D5-BAAC-6B7A8339AC49}|aircraft_text\\aircraft_text.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\aircraft_text\\aircraft_text\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3DF7D79-D8D2-41D5-BAAC-6B7A8339AC49}|aircraft_text\\aircraft_text.vcxproj|solutionrelative:aircraft_text\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\aircraft_text\\aircraft_text\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "aircraft_text\\\u6E90.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\aircraft_text\\aircraft_text\\\u6E90.cpp",
+              "RelativeToolTip": "aircraft_text\\\u6E90.cpp",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAswM4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-18T09:12:38.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

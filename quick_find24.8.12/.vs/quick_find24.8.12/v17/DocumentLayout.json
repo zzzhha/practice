@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\quick_find24.8.12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA206855-D7E9-4AFD-A80C-F09588103642}|quick_find24.8.12\\quick_find24.8.12.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\quick_find24.8.12\\quick_find24.8.12\\practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA206855-D7E9-4AFD-A80C-F09588103642}|quick_find24.8.12\\quick_find24.8.12.vcxproj|solutionrelative:quick_find24.8.12\\practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA206855-D7E9-4AFD-A80C-F09588103642}|quick_find24.8.12\\quick_find24.8.12.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\quick_find24.8.12\\quick_find24.8.12\\quick_union.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA206855-D7E9-4AFD-A80C-F09588103642}|quick_find24.8.12\\quick_find24.8.12.vcxproj|solutionrelative:quick_find24.8.12\\quick_union.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA206855-D7E9-4AFD-A80C-F09588103642}|quick_find24.8.12\\quick_find24.8.12.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\quick_find24.8.12\\quick_find24.8.12\\quick_find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA206855-D7E9-4AFD-A80C-F09588103642}|quick_find24.8.12\\quick_find24.8.12.vcxproj|solutionrelative:quick_find24.8.12\\quick_find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 447,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\quick_find24.8.12\\quick_find24.8.12\\practice.cpp",
+              "RelativeDocumentMoniker": "quick_find24.8.12\\practice.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\quick_find24.8.12\\quick_find24.8.12\\practice.cpp",
+              "RelativeToolTip": "quick_find24.8.12\\practice.cpp",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAswLQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T05:32:08.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quick_union.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\quick_find24.8.12\\quick_find24.8.12\\quick_union.cpp",
+              "RelativeDocumentMoniker": "quick_find24.8.12\\quick_union.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\quick_find24.8.12\\quick_find24.8.12\\quick_union.cpp",
+              "RelativeToolTip": "quick_find24.8.12\\quick_union.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T11:41:22.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quick_find.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\quick_find24.8.12\\quick_find24.8.12\\quick_find.cpp",
+              "RelativeDocumentMoniker": "quick_find24.8.12\\quick_find.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\quick_find24.8.12\\quick_find24.8.12\\quick_find.cpp",
+              "RelativeToolTip": "quick_find24.8.12\\quick_find.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T11:27:22.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

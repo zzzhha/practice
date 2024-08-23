@@ -1,0 +1,6 @@
+﻿  hash_table.cpp
+D:\please look svcr\xiangmu\c & c++\hash_table\hash_table\hash_table.cpp(21,9): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\please look svcr\xiangmu\c & c++\hash_table\hash_table\hash_table.cpp(97,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\please look svcr\xiangmu\c & c++\hash_table\hash_table\hash_table.cpp(101,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\please look svcr\xiangmu\c & c++\hash_table\hash_table\hash_table.cpp(105,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hash_table.vcxproj -> D:\please look svcr\xiangmu\c & c++\hash_table\x64\Debug\hash_table.exe
