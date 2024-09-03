@@ -16,6 +16,7 @@ typedef struct {
 //----------------------view---------------------------
 void kaifastaff()
 {
+ 
     // ³õÊ¼»¯ EasyX Í¼ÐÎ¿â
     setbkcolor(BLACK);
     setlinecolor(BLACK);

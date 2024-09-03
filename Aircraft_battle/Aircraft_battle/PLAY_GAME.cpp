@@ -7,6 +7,7 @@ extern int flag;
 IMAGE player_photo[2];
 IMAGE game_photo;
 IMAGE gun[2];
+IMAGE boss[2];
 extern ExMessage msg;
 struct character {
 	int life;//生命值
@@ -18,7 +19,7 @@ struct character {
 class player :public character {
 public:
 	int vx, vy;
-	int speed = 3;
+	int speed = 5;
 	player(int life, int power, int x, int y, int vx, int vy) :character(life, power, x, y), vx(vx), vy(vy) {}
 	inline void play_move() {
 		peekmessage(&msg, EX_KEY | EX_MOUSE);
@@ -99,12 +100,24 @@ void in_graph(character& a) {
 		a.y = 860;
 }
 
+int bk_y = 0;
+void show_bk() {
+	
+	putimage(0, bk_y, &game_photo);
+	putimage(0, bk_y - 960, &game_photo);
+	bk_y += p1.speed+3;
+	if (bk_y > 960) {
+		bk_y -= 960;
+	}
+}
 void start_game() {
 	loadimage(player_photo, "photo/player_photo1.jpg", 100, 100);
 	loadimage(player_photo + 1, "photo/player_photo2.jpg", 100, 100);
-	loadimage(gun, "photo/子弹.jpg", 20, 30);
-	loadimage(gun + 1, "photo/子弹1.jpg", 20, 30);
-	loadimage(&game_photo, "photo/game_photo.jpg", 1080, 960);
+	loadimage(gun, "photo/player_bullet_1_0.jpg", 12, 30);
+	loadimage(gun + 1, "photo/player_bullet_1_1.jpg", 12, 30);
+	loadimage(&game_photo, "photo/play_bk.jpg", 1080, 960);
+	loadimage(boss, "photo/boss.jpg", 300, 350);
+	loadimage(boss + 1, "photo/boss1.jpg", 300, 350);
 
 	while (1) {
 		if (p1.is_life())
@@ -114,12 +127,14 @@ void start_game() {
 		in_graph(p1);
 		BeginBatchDraw();
 		cleardevice();
-		putimage(0, 0, &game_photo);
+		show_bk();
 		putimage(p1.x, p1.y, player_photo + 1, NOTSRCERASE);
 		putimage(p1.x, p1.y, player_photo, SRCINVERT);
 		int tempx = p1.x, tempy = p1.y;
 		putimage(tempx + 40, tempy - 20, gun + 1, NOTSRCERASE);
 		putimage(tempx + 40, tempy - 20, gun, SRCINVERT);
+		putimage(1080/2,0, boss + 1, NOTSRCERASE);
+		putimage(1080 / 2, 0, boss, SRCINVERT);
 
 
 		EndBatchDraw();

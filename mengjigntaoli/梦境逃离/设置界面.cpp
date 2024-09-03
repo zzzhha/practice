@@ -76,8 +76,8 @@ void relevant_set()
 
 			mciSendString(musciplay[c], 0, 0, 0);
 		};
-		button(660, 480, "¡ü", "¡ü");
-		button(660, 590, "¡ý", "¡ý");
+		button(680, 480, "¡ü", "¡ü");
+		button(680, 590, "¡ý", "¡ý");
 		if ((msg.message == WM_LBUTTONDOWN && inArea(msg.x, msg.y, 660, 480, 40, 40)))
 		{
 			if (b <= 999)
