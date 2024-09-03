@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\DP_dongtaiguihua\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F52A78-7ED9-4D6F-8F87-8EEFD848480C}|DP_dongtaiguihua\\DP_dongtaiguihua.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\DP_dongtaiguihua\\DP_dongtaiguihua\\DP_dongtaiguihua.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3F52A78-7ED9-4D6F-8F87-8EEFD848480C}|DP_dongtaiguihua\\DP_dongtaiguihua.vcxproj|solutionrelative:DP_dongtaiguihua\\DP_dongtaiguihua.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DP_dongtaiguihua.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\DP_dongtaiguihua\\DP_dongtaiguihua\\DP_dongtaiguihua.cpp",
+              "RelativeDocumentMoniker": "DP_dongtaiguihua\\DP_dongtaiguihua.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\DP_dongtaiguihua\\DP_dongtaiguihua\\DP_dongtaiguihua.cpp",
+              "RelativeToolTip": "DP_dongtaiguihua\\DP_dongtaiguihua.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:15:13.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
