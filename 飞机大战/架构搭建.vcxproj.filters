@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="资源文件\controller">
+      <UniqueIdentifier>{c0a59f9d-550f-4d0e-a592-c0739d227437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\MENU">
+      <UniqueIdentifier>{3ffedf86-01fb-43d2-805d-93744c6c8efc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\SETTING">
+      <UniqueIdentifier>{56e7db52-31fc-4911-8f48-5399c2075f94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\GAME_HELP">
+      <UniqueIdentifier>{ec8b860b-ead1-4344-99a7-05e082ca2b67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\STAFF">
+      <UniqueIdentifier>{eafbf6ea-e0a9-4ca7-ac28-445398172959}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\PLAY_MENU">
+      <UniqueIdentifier>{dbff8995-3d33-44fa-973a-2396a237d3d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\WEAPON&amp;TOOL">
+      <UniqueIdentifier>{8977e0b4-1277-41e6-b22e-f47efe7965ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\BOSS">
+      <UniqueIdentifier>{17388898-1321-419d-b8e5-d7a20c68a55a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="aircraft_battle.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="controller.cpp">
+      <Filter>资源文件\controller</Filter>
+    </ClCompile>
+    <ClCompile Include="play_game.cpp">
+      <Filter>资源文件\PLAY_MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="MENU.cpp">
+      <Filter>资源文件\MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="setting.cpp">
+      <Filter>资源文件\SETTING</Filter>
+    </ClCompile>
+    <ClCompile Include="game_help.cpp">
+      <Filter>资源文件\GAME_HELP</Filter>
+    </ClCompile>
+    <ClCompile Include="staff.cpp">
+      <Filter>资源文件\STAFF</Filter>
+    </ClCompile>
+    <ClCompile Include="weapon&amp;tool.cpp">
+      <Filter>资源文件\WEAPON&amp;TOOL</Filter>
+    </ClCompile>
+    <ClCompile Include="boss.cpp">
+      <Filter>资源文件\BOSS</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="controller.h">
+      <Filter>资源文件\controller</Filter>
+    </ClInclude>
+    <ClInclude Include="play_game.h">
+      <Filter>资源文件\PLAY_MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="MENU.h">
+      <Filter>资源文件\MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="setting.h">
+      <Filter>资源文件\SETTING</Filter>
+    </ClInclude>
+    <ClInclude Include="game_help.h">
+      <Filter>资源文件\GAME_HELP</Filter>
+    </ClInclude>
+    <ClInclude Include="staff.h">
+      <Filter>资源文件\STAFF</Filter>
+    </ClInclude>
+    <ClInclude Include="weapon&amp;tool.h">
+      <Filter>资源文件\WEAPON&amp;TOOL</Filter>
+    </ClInclude>
+    <ClInclude Include="boss.h">
+      <Filter>资源文件\BOSS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
