@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\stl_algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC55C51-4DF1-4B0C-B214-3711A4C13306}|stl_algorithm\\stl_algorithm.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\stl_algorithm\\stl_algorithm\\stl_algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBC55C51-4DF1-4B0C-B214-3711A4C13306}|stl_algorithm\\stl_algorithm.vcxproj|solutionrelative:stl_algorithm\\stl_algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stl_algorithm.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\stl_algorithm\\stl_algorithm\\stl_algorithm.cpp",
+              "RelativeDocumentMoniker": "stl_algorithm\\stl_algorithm.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\stl_algorithm\\stl_algorithm\\stl_algorithm.cpp*",
+              "RelativeToolTip": "stl_algorithm\\stl_algorithm.cpp*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:18:03.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
