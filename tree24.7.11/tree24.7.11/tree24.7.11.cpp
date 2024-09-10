@@ -40,7 +40,7 @@ void clear(Node *root)
 
 Node* queue[15];
 int head, tail;
-void bfs(Node* root)
+void bfs(Node* root)//广度优先搜索
 {
 	head = tail = 0;
 	queue[tail++] = root;
@@ -63,7 +63,7 @@ void bfs(Node* root)
 	}
 }
 int tot = 0;
-void dfs(Node* root)
+void dfs(Node* root)//深度优先搜索
 {
 	if (root == NULL)
 		return;
