@@ -199,8 +199,8 @@ struct ten_linklist {
 };//边集
 struct point{
 	char data;
-	ten_linklist* firstin;//出度的指针，对标弧尾
-	ten_linklist* firstout;//入度的指针，对标弧头
+	ten_linklist* firstin;//入度的指针，对标弧头
+	ten_linklist* firstout;//出度的指针，对标弧尾
 }g[105];//点集
 int __find(char x, int n) {
 	for (int i = 0; i < n; i++) {

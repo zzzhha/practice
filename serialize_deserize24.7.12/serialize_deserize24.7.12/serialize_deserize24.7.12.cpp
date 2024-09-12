@@ -91,11 +91,12 @@ void output(Node* root)
 
 Node* deserialize(char* buff, int n)
 {
-	Node** s = new Node* [10];
-	int top = -1;
-	int flag = 0;
+	Node** s = new Node* [10];//s是动态数组（模拟栈），数组保存的是一个Node类型指针，s存储每一个节点，每一个节点都有他的左右子树
+	int top = -1;//用于s的存储，模拟栈的元素
+	int flag = 0;//判断是左子树还是右子树
 	int scode = 0;//状态码
-	Node* p = NULL,*root=NULL;
+	Node* p = NULL;//p指向最后生成的节点
+	Node* root=NULL;
 	for (int i = 0; buff[i]; i++)
 	{
 		int key = 0;
@@ -114,34 +115,34 @@ Node* deserialize(char* buff, int n)
 			break;
 		case 1:
 			
-			while (buff[i]<='9'&&buff[i]>='0')
+			while (buff[i]<='9'&&buff[i]>='0')//用key保存当前值，因为可能是两位数，所以用while循环来计算key值
 			{
 				key = key * 10 + (buff[i] - '0');
-				i += 1;
+				i += 1;//key值每进行一次计算，buff运用循环的i值就要往后移一位，直到buff[i]不是0~9的数
 			}
-			p = getNewNode(key);
-			if (top >= 0&&flag==0)
+			p = getNewNode(key);//创建一个节点
+			if (top >= 0&&flag==0)//左子树
 			{
 				s[top]->lchild = p;
 			}
-			if (top >= 0 && flag == 1)
+			if (top >= 0 && flag == 1)//右子树
 			{
 				s[top]->rchild = p;
 			}
-			i--;
+			i--;//--的原因是因为for循环加了1，此处buff[i]就是（，）三者其一，所以再加就变成数字了，需要减1，然for+1后再是（，）三者其一
 			scode = 0;
 			break;
-		case 2:
-			s[++top] = p;
+		case 2://如果是左括号
+			s[++top] = p;//压栈操作，存p是因为p存储是的我们最新的一个节点
 			flag = 0;
 			scode = 0;
 			break;
-		case 3:
+		case 3://如果是逗号，则下次一个节点应该是右子树
 			flag = 1;
 			scode = 0;
 			break;
-		case 4:
-			root = s[top--];
+		case 4://
+			root = s[top--];//弹栈操作，buff存储的最后都是“）”我们可以一次次弹栈，弹到最后一次就是根节点
 			scode = 0;
 			break;
 		}

@@ -2,6 +2,8 @@
 //#include "0.sort_text.h"
 //#include<vector>
 //
+// sort排序第三个参数是排序方式，可以用已提供的，也可以自己创造一个函数给他传进去
+// 
 //void output(int* arr, int n);
 //
 //

@@ -19,43 +19,43 @@ using namespace std;
 // 4 3 -1 -3 5 [3 6 7]         3              7
 //找出窗口在各个位置时的极大值和极小值。
 
-//int main() {
-//	int n, k;
-//	cin >> n >> k;
-//	vector<int> arr;
-//	for (int i = 0, a; i < n; i++) {
-//		cin >> a;
-//		arr.push_back(a);
-//	}
-//	deque<int> q;
-//	for (int i = 0; i < n; i++) {
-//		while (!q.empty() && arr[i]<arr[q.back()]) {
-//			q.pop_back();
-//		}
-//		q.push_back(i);
-//		if (i - q.front() == k) {
-//			q.pop_front();
-//		}
-//		if (i + 1 < k)continue;
-//		if (i >= k) cout << " ";
-//		cout << arr[q.front()];
-//	}
-//	cout << endl;
-//	q.clear();
-//	for (int i = 0; i < n; i++) {
-//		while (!q.empty() && arr[i] > arr[q.back()]) {
-//			q.pop_back();
-//		}
-//		q.push_back(i);
-//		if (i - q.front() == k) {
-//			q.pop_front();
-//		}
-//		if (i + 1 < k)continue;
-//		if (i >= k)cout << " ";
-//		cout << arr[q.front()];
-//	}
-//	return 0;
-//}
+int main() {
+	int n, k;
+	cin >> n >> k;
+	vector<int> arr;
+	for (int i = 0, a; i < n; i++) {
+		cin >> a;
+		arr.push_back(a);
+	}
+	deque<int> q;
+	for (int i = 0; i < n; i++) {
+		while (!q.empty() && arr[i]<arr[q.back()]) {
+			q.pop_back();
+		}
+		q.push_back(i);
+		if (i - q.front() == k) {
+			q.pop_front();
+		}
+		if (i + 1 < k)continue;
+		if (i >= k) cout << " ";
+		cout << arr[q.front()];
+	}
+	cout << endl;
+	q.clear();
+	for (int i = 0; i < n; i++) {
+		while (!q.empty() && arr[i] > arr[q.back()]) {
+			q.pop_back();
+		}
+		q.push_back(i);
+		if (i - q.front() == k) {
+			q.pop_front();
+		}
+		if (i + 1 < k)continue;
+		if (i >= k)cout << " ";
+		cout << arr[q.front()];
+	}
+	return 0;
+}
 
 //海贼OJ 270最大子序和
 //输入一个长度为n的整数序列，从中找出一段不超过M的连续子序列，使得整个序列的和最大。
@@ -194,40 +194,40 @@ public:
 //遍历一次即可找完所有木板作为最矮木板形成的最大矩形面积，取最大值即可
 
 
-int main() {
-	int n;
-	cin >> n;
-	vector<long long>arr(n + 2, -1);
-	vector<long long>l(n + 2), r(n + 2);//l记录左边小于当前木板的最近的那块木板，r记录右边
-	for (int i = 1; i <= n; i++) {
-		cin >> arr[i];
-	}
-	stack<int>s;
-
-	for (int i = 1; i <= n + 1; i++)
-	{
-		while (!s.empty() && arr[i] < arr[s.top()]) {
-			r[s.top()] = i;
-			s.pop();
-		}
-		s.push(i);
-	}
-	while (!s.empty())s.pop();
-	for (int i = n; i >= 0; i--) {
-		while (!s.empty() && arr[i] < arr[s.top()]) {
-			l[s.top()] = i;
-			s.pop();
-		}
-		s.push(i);
-	}
-	long long ans = 0;
-	for (int i = 1; i <= n; i++) {
-		long long width = r[i] - l[i] - 1;
-		long long height = arr[i];
-		ans = max(height * width, ans);
-	}
-	cout << ans << endl;
-	return 0;
-}
+//int main() {
+//	int n;
+//	cin >> n;
+//	vector<long long>arr(n + 2, -1);
+//	vector<long long>l(n + 2), r(n + 2);//l记录左边小于当前木板的最近的那块木板，r记录右边
+//	for (int i = 1; i <= n; i++) {
+//		cin >> arr[i];
+//	}
+//	stack<int>s;
+//
+//	for (int i = 1; i <= n + 1; i++)
+//	{
+//		while (!s.empty() && arr[i] < arr[s.top()]) {
+//			r[s.top()] = i;
+//			s.pop();
+//		}
+//		s.push(i);
+//	}
+//	while (!s.empty())s.pop();
+//	for (int i = n; i >= 0; i--) {
+//		while (!s.empty() && arr[i] < arr[s.top()]) {
+//			l[s.top()] = i;
+//			s.pop();
+//		}
+//		s.push(i);
+//	}
+//	long long ans = 0;
+//	for (int i = 1; i <= n; i++) {
+//		long long width = r[i] - l[i] - 1;
+//		long long height = arr[i];
+//		ans = max(height * width, ans);
+//	}
+//	cout << ans << endl;
+//	return 0;
+//}
 
 

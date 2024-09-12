@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{9946B0AD-3D10-4B30-97C2-6FF464ABB246}|monotonic_queue24.8.15\\monotonic_queue24.8.15.vcxproj|solutionrelative:monotonic_queue24.8.15\\monotonic_stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9946B0AD-3D10-4B30-97C2-6FF464ABB246}|monotonic_queue24.8.15\\monotonic_queue24.8.15.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\monotonic_queue24.8.15\\monotonic_queue24.8.15\\monotonic_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9946B0AD-3D10-4B30-97C2-6FF464ABB246}|monotonic_queue24.8.15\\monotonic_queue24.8.15.vcxproj|solutionrelative:monotonic_queue24.8.15\\monotonic_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9946B0AD-3D10-4B30-97C2-6FF464ABB246}|monotonic_queue24.8.15\\monotonic_queue24.8.15.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\monotonic_queue24.8.15\\monotonic_queue24.8.15\\practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9946B0AD-3D10-4B30-97C2-6FF464ABB246}|monotonic_queue24.8.15\\monotonic_queue24.8.15.vcxproj|solutionrelative:monotonic_queue24.8.15\\practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9946B0AD-3D10-4B30-97C2-6FF464ABB246}|monotonic_queue24.8.15\\monotonic_queue24.8.15.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\monotonic_queue24.8.15\\monotonic_queue24.8.15\\monotonic_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9946B0AD-3D10-4B30-97C2-6FF464ABB246}|monotonic_queue24.8.15\\monotonic_queue24.8.15.vcxproj|solutionrelative:monotonic_queue24.8.15\\monotonic_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,13 +26,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "practice.cpp",
               "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\monotonic_queue24.8.15\\monotonic_queue24.8.15\\practice.cpp",
               "RelativeDocumentMoniker": "monotonic_queue24.8.15\\practice.cpp",
               "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\monotonic_queue24.8.15\\monotonic_queue24.8.15\\practice.cpp",
               "RelativeToolTip": "monotonic_queue24.8.15\\practice.cpp",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAAAMoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-15T13:15:07.196Z",
               "EditorCaption": ""
@@ -45,23 +45,22 @@
               "RelativeDocumentMoniker": "monotonic_queue24.8.15\\monotonic_stack.cpp",
               "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\monotonic_queue24.8.15\\monotonic_queue24.8.15\\monotonic_stack.cpp",
               "RelativeToolTip": "monotonic_queue24.8.15\\monotonic_stack.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-15T12:33:33.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "monotonic_queue.cpp",
               "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\monotonic_queue24.8.15\\monotonic_queue24.8.15\\monotonic_queue.cpp",
               "RelativeDocumentMoniker": "monotonic_queue24.8.15\\monotonic_queue.cpp",
               "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\monotonic_queue24.8.15\\monotonic_queue24.8.15\\monotonic_queue.cpp",
               "RelativeToolTip": "monotonic_queue24.8.15\\monotonic_queue.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-15T08:12:22.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T08:12:22.19Z"
             }
           ]
         }

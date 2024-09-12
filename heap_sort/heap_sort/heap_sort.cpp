@@ -5,7 +5,7 @@
 #include<vector>
 #include<set>
 using namespace std;
-//堆排序
+//堆排序 O(nlogn) 不稳定
 #define ROOT 1
 #define FATHER(i) ((i)/2)
 #define LEFT(i) ((i)*2)
@@ -78,7 +78,7 @@ void down_update(int* data, int i,int n)
 	}
 }
 
-void mormal_heap_bulid(int* data, int n)
+void mormal_heap_bulid(int* data, int n)//普通堆的建立
 {
 	for (int i = 2; i <= n; i++)
 	{
@@ -86,7 +86,7 @@ void mormal_heap_bulid(int* data, int n)
 	}
 }
 
-void linear_heap_build(int* data, int n) {
+void linear_heap_build(int* data, int n) {//线性堆的建立
 	for (int i = n / 2; i >= 1; i--)
 	{
 		down_update(data, i,n);
@@ -109,7 +109,7 @@ void mormal_heap(int* arr, int n)
 	heap_sort_final(data, n);
 }
 
-void linear_heap(int* arr, int n)
+void linear_heap(int* arr, int n)//时间复杂度 O(n)
 {
 	int* data = arr - 1;
 	linear_heap_build(arr, n);

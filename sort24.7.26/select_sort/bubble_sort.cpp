@@ -1,5 +1,5 @@
 //#include "0.sort_text.h"
-//√∞≈›≈≈–Ú
+//√∞≈›≈≈–Ú O(n^2) Œ»∂®
 #include"sort.h"
 using namespace std;
 void bubble_sort(int* arr, int l, int r)

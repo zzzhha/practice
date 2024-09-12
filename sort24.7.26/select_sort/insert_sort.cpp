@@ -2,7 +2,7 @@
 //≤Â»Î≈≈–Ú
 #include"sort.h"
 using namespace std;
-
+//O(n^2) Œ»∂®
 void insert_sort(int* arr, int l, int r) {
 	for (int i = l + 1; i < r; i++)
 	{
@@ -16,27 +16,27 @@ void insert_sort(int* arr, int l, int r) {
 	return;
 }
 
-//void unguarded_insert_sort(int* arr, int l, int r)
-//{
-//	int ind = l;
-//	for (int i = l + 1; i < r; i++)
-//	{
-//		if (arr[i] < arr[ind])ind = i;
-//	}
-//	while (ind > l)
-//	{
-//		swap(arr[ind], arr[ind - 1]);
-//		ind--;
-//	}
-//	for (int i = l + 1; i < r; i++)
-//	{
-//		int j = i;
-//		while ( arr[j] < arr[j - 1])
-//		{
-//			swap(arr[j], arr[j - 1]);
-//			j--;
-//		}
-//	}
+void unguarded_insert_sort(int* arr, int l, int r)
+{
+	int ind = l;
+	for (int i = l + 1; i < r; i++)
+	{
+		if (arr[i] < arr[ind])ind = i;
+	}
+	while (ind > l)
+	{
+		swap(arr[ind], arr[ind - 1]);
+		ind--;
+	}
+	for (int i = l + 1; i < r; i++)
+	{
+		int j = i;
+		while ( arr[j] < arr[j - 1])
+		{
+			swap(arr[j], arr[j - 1]);
+			j--;
+		}
+	}
 //	return;
 //}
 //int main()

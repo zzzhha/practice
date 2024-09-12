@@ -20,7 +20,7 @@ const int maxx = 100;
 
 //----------------------------------------------
 
-struct graph {
+struct graph {//边集数组法
 	int start;
 	int end;
 	int weight;

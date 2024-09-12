@@ -79,7 +79,8 @@ int push(Pqueue* p, int x)
 }
 
 
-int pop(Pqueue* p)
+int pop(Pqueue* p)//头部弹出元素，把data【1】位置的元素弹出，然后n--，所以可以把堆的最后一个元素直接赋给第一个元素
+//既达到了弹出头部元素的需求，又满足了n--，因为把最后一个元素给了data[1]所以可能会破坏堆的结构性质，所以要进行向下调整
 {
 	if (empty(p)) return 0;
 	p->data[1] = p->data[p->n];

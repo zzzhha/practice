@@ -1,7 +1,7 @@
 //#include "0.sort_text.h"
 #include"sort.h"
 using namespace std;
-//©Лее
+//©Лее nlogn~n^2
 template<typename T1>
 T1 three_point_select(T1 a, T1 b, T1 c)
 {

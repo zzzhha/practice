@@ -33,8 +33,8 @@ void output(vector<int>& arr) {
 //		arr.push_back(a);
 //	}
 //	output(arr);
-//	for (int i = 0; i < n; i++) {
-//		while (!q.empty() && arr[q.back()]> arr[i]) q.pop_back();
+//	for (int i = 0; i < n; i++) {//单调队列的建立，存储的是数组的下标
+//		while (!q.empty() && arr[q.back()]> arr[i]) q.pop_back();//维护单调递增队列，如果当前值优先队列值最后一个数据大于arr[i]的数据，则弹出队尾元素
 //		q.push_back(i);//压入下标，通过下标可以找到值，但是存储值的话找不到下标，会造成信息损失
 //		if (i - q.front() == k)//这里指可能等于k，因为每一次进入的话都是等于条件成立进去，而不是大于条件成立
 //		{

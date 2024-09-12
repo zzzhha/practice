@@ -1,7 +1,7 @@
 //#include "0.sort_text.h"
 #include"sort.h"
 using namespace std;
-////希尔排序时间复杂度o(nlogn)~o(n^2)
+////希尔排序时间复杂度o(nlogn)~o(n^2) 不稳定
 void unguarded_insert_sort(int* arr, int l, int r,int step)
 {
 	int ind = l;

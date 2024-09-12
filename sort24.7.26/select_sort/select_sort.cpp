@@ -1,7 +1,7 @@
 //#include "0.sort_text.h"
 #include"sort.h"
 using namespace std;
-//—°‘Ò≈≈–Ú
+//—°‘Ò≈≈–Ú O(n^2) ≤ªŒ»∂®
 void selection_sort(int* arr, int l, int r){
 	for (int i = l; i < r-1; i++)
 	{

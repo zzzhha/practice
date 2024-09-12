@@ -26,7 +26,7 @@ Node* insert(Node* root,int key) {
 
 }
 
-Node* predecessor(Node* root) {
+Node* predecessor(Node* root) {//搜索前驱
 	Node* temp = root->lchild;
 	while (temp->rchild)temp = temp->rchild;
 	return temp;
@@ -48,9 +48,9 @@ Node* erase(Node* root, int key) {
 			return temp;
 		}
 		else{
-			Node* temp = predecessor(root);
-			root->key = temp->key;
-			root->lchild = erase(root->lchild, temp->key);
+			Node* temp = predecessor(root);//找到前驱节点
+			root->key = temp->key;//交换节点值，也就是我们把删除度为2的节点转化成了删除一个度为1的节点
+			root->lchild = erase(root->lchild, temp->key);//因为他的前驱一定在他的左子树中，所以我们向左子树递归去删除对应值。
 		}
 	}
 	return root;

@@ -38,7 +38,7 @@ void output(vector<int>& arr);
 //		s.push(i);
 //	}
 //	for (int i = 1; i <= n; i++) {
-//		printf("arr[%d] = %d, right : arr[%d] = %d, left : arr[%d] = %d\n",
+//		printf("arr[%d] = %d, 右边最近小于他的元素right : arr[%d] = %d, 左边最近小于他的元素left : arr[%d] = %d\n",
 //			i, arr[i],
 //			r[i], arr[r[i]],
 //			l[i], arr[l[i]]

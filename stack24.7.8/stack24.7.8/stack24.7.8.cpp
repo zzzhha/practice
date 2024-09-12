@@ -15,10 +15,12 @@ public:
 	}
 	void Push(int value)
 	{
+		D_stack* s = next;
+		while (s) {
+			s = s->next;
+		}
 		D_stack* p = new D_stack(value);
-		next = p->next;
-		p->next = next;
-		next = p;
+		s = p;
 	}
 	bool isempty()
 	{
@@ -30,15 +32,26 @@ public:
 	{
 		if (isempty())
 			return;
+
 		D_stack* temp = next;
-		next = temp->next;
-		delete temp;
+		D_stack* s = next;
+		while (s)
+		{
+			temp = s;
+			s = s->next;
+		}
+		temp->next = NULL;
+		delete s;
 	}
 	int gettop()
 	{
 		if (isempty())
 			return false;
-		return data;
+		D_stack* p = next;
+		while (p->next) {
+			p = p->next;
+		}
+		return p->data;
 	}
 	~D_stack()
 	{

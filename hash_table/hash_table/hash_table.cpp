@@ -5,12 +5,12 @@
 using namespace std;
 
 typedef struct Node{
-	char* s;
+	char* s;//存储字符串
 	struct Node* next;
 }Node;
 
 typedef struct HashTable {
-	Node* data;
+	Node* data;//node类型数组，（24.9.12 ps:当时复习感觉像是 邻接表）
 	int size;//哈希表大小
 	int cnt;//当前哈希表存储了多少个元素
 
@@ -34,7 +34,7 @@ hashtable* getNEewhashtable(int n) {
 	return h;
 }
 
-int hash_func(const char* s) {
+int hash_func(const char* s) {//哈希函数（不固定，这里举了一种经典的例子）
 	int seed = 131, h = 0;
 	for (int i = 0; s[i]; i++) {
 		h = h * seed + s[i];
