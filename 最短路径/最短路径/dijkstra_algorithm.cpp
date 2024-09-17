@@ -80,7 +80,7 @@ int main() {
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < n; j++) {
 			if (j == i)
-				g[i][j] = g[j][i] == 0;
+				g[i][j] = g[j][i] = 0;
 			else
 				g[i][j] = g[j][i] = 10005;
 		}

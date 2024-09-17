@@ -15,7 +15,37 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="recall.cpp">
+    <ClCompile Include="n_quene.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="奇怪的电梯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="选数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="马的遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迷宫.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="吃奶酪.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单词接龙.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符变换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="自然数的拆分问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单词方阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="靠前临时抱佛脚.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

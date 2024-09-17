@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="recall.cpp" />
+    <ClCompile Include="n_quene.cpp" />
+    <ClCompile Include="单词接龙.cpp" />
+    <ClCompile Include="单词方阵.cpp" />
+    <ClCompile Include="吃奶酪.cpp" />
+    <ClCompile Include="奇怪的电梯.cpp" />
+    <ClCompile Include="字符变换.cpp" />
+    <ClCompile Include="自然数的拆分问题.cpp" />
+    <ClCompile Include="迷宫.cpp" />
+    <ClCompile Include="选数.cpp" />
+    <ClCompile Include="靠前临时抱佛脚.cpp" />
+    <ClCompile Include="马的遍历.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
