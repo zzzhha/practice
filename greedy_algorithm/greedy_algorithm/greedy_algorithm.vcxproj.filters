@@ -21,5 +21,23 @@
     <ClCompile Include="删数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="独木舟cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大子阵和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最少操作次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="安装雷达.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="挤牛奶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="奶牛晒太阳.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
