@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="公司的任务.cpp" />
     <ClCompile Include="删数.cpp" />
     <ClCompile Include="奶牛晒太阳.cpp" />
     <ClCompile Include="安装雷达.cpp" />
@@ -134,6 +135,7 @@
     <ClCompile Include="最大子阵和.cpp" />
     <ClCompile Include="最大整数.cpp" />
     <ClCompile Include="最少操作次数.cpp" />
+    <ClCompile Include="树的颜色.cpp" />
     <ClCompile Include="独木舟cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

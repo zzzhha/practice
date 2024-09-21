@@ -2,7 +2,7 @@
 #include<algorithm>
 using namespace std;
 
-
+//海贼OJ 511
 //给出两个整数a,b，每次操作可以把a变成a+1 或 a*k 。求把a变成b至少需要几步操作。
 //int main() {
 //	unsigned long long a, b, k;

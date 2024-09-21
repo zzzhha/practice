@@ -39,5 +39,11 @@
     <ClCompile Include="奶牛晒太阳.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="公司的任务.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="树的颜色.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -6,7 +6,7 @@ using namespace std;
 int rectangle[105][105];
 int linetangle[105][105];
 
-
+//º£ÔôOJ 258
 //int main() {
 //	int n;
 //	cin >> n;

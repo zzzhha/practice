@@ -2,6 +2,8 @@
 #include<algorithm>
 using namespace std;
 
+
+//∫£‘ÙOJ 503
 int people[30005];
 //int main() {
 //	int w;
