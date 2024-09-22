@@ -13,10 +13,34 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\1.递推问题">
+      <UniqueIdentifier>{3cb6b22d-9569-4fad-9655-cc81218899ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\5.动态规划课后实战题">
+      <UniqueIdentifier>{87eed67e-be2b-446d-93d5-fa6b881e8a7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4.动态规划的优化">
+      <UniqueIdentifier>{28ae911e-fc46-4481-8cf6-401a99e56407}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3.动态规划入门">
+      <UniqueIdentifier>{da0d7b74-9ca9-4d25-a05d-71fc8a7eaf3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\2.递推课后实战题">
+      <UniqueIdentifier>{b644e8b9-8506-4c55-b29f-bbf07dc912ea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DP_dongtaiguihua.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="1.初识.cpp">
+      <Filter>源文件\1.递推问题</Filter>
+    </ClCompile>
+    <ClCompile Include="2.容斥原理.cpp">
+      <Filter>源文件\1.递推问题</Filter>
+    </ClCompile>
+    <ClCompile Include="3.爬楼梯.cpp">
+      <Filter>源文件\1.递推问题</Filter>
+    </ClCompile>
+    <ClCompile Include="4.墙壁涂色.cpp">
+      <Filter>源文件\1.递推问题</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
