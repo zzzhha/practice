@@ -42,5 +42,20 @@
     <ClCompile Include="4.墙壁涂色.cpp">
       <Filter>源文件\1.递推问题</Filter>
     </ClCompile>
+    <ClCompile Include="数的划分.cpp">
+      <Filter>源文件\2.递推课后实战题</Filter>
+    </ClCompile>
+    <ClCompile Include="数的计算.cpp">
+      <Filter>源文件\2.递推课后实战题</Filter>
+    </ClCompile>
+    <ClCompile Include="神经网络.cpp">
+      <Filter>源文件\2.递推课后实战题</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\拓扑序列\拓扑序列\拓扑序列.cpp">
+      <Filter>源文件\2.递推课后实战题</Filter>
+    </ClCompile>
+    <ClCompile Include="栈.cpp">
+      <Filter>源文件\2.递推课后实战题</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

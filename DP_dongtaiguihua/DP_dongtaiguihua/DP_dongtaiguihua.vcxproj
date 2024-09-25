@@ -19,10 +19,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\拓扑序列\拓扑序列\拓扑序列.cpp" />
     <ClCompile Include="2.容斥原理.cpp" />
     <ClCompile Include="3.爬楼梯.cpp" />
     <ClCompile Include="1.初识.cpp" />
     <ClCompile Include="4.墙壁涂色.cpp" />
+    <ClCompile Include="数的划分.cpp" />
+    <ClCompile Include="数的计算.cpp" />
+    <ClCompile Include="栈.cpp" />
+    <ClCompile Include="神经网络.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
