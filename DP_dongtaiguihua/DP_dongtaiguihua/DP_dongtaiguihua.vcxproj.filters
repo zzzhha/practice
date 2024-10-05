@@ -42,20 +42,44 @@
     <ClCompile Include="4.墙壁涂色.cpp">
       <Filter>源文件\1.递推问题</Filter>
     </ClCompile>
-    <ClCompile Include="数的划分.cpp">
+    <ClCompile Include="1.数的划分.cpp">
       <Filter>源文件\2.递推课后实战题</Filter>
     </ClCompile>
-    <ClCompile Include="数的计算.cpp">
+    <ClCompile Include="2.数的计算.cpp">
       <Filter>源文件\2.递推课后实战题</Filter>
     </ClCompile>
-    <ClCompile Include="神经网络.cpp">
+    <ClCompile Include="3.神经网络.cpp">
       <Filter>源文件\2.递推课后实战题</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\拓扑序列\拓扑序列\拓扑序列.cpp">
+    <ClCompile Include="4.栈.cpp">
       <Filter>源文件\2.递推课后实战题</Filter>
     </ClCompile>
-    <ClCompile Include="栈.cpp">
+    <ClCompile Include="5.循环.cpp">
       <Filter>源文件\2.递推课后实战题</Filter>
+    </ClCompile>
+    <ClCompile Include="6.传球游戏.cpp">
+      <Filter>源文件\2.递推课后实战题</Filter>
+    </ClCompile>
+    <ClCompile Include="7.汉诺双塔问题.cpp">
+      <Filter>源文件\2.递推课后实战题</Filter>
+    </ClCompile>
+    <ClCompile Include="1.数字三角形.cpp">
+      <Filter>源文件\3.动态规划入门</Filter>
+    </ClCompile>
+    <ClCompile Include="2.01背包.cpp">
+      <Filter>源文件\3.动态规划入门</Filter>
+    </ClCompile>
+    <ClCompile Include="3.完全背包.cpp">
+      <Filter>源文件\3.动态规划入门</Filter>
+    </ClCompile>
+    <ClCompile Include="4.多重背包.cpp">
+      <Filter>源文件\3.动态规划入门</Filter>
+    </ClCompile>
+    <ClCompile Include="5最长上升子序列.cpp">
+      <Filter>源文件\3.动态规划入门</Filter>
+    </ClCompile>
+    <ClCompile Include="6.最长公共子序列.cpp">
+      <Filter>源文件\3.动态规划入门</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
