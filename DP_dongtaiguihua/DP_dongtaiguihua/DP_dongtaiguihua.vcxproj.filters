@@ -81,5 +81,20 @@
     <ClCompile Include="6.最长公共子序列.cpp">
       <Filter>源文件\3.动态规划入门</Filter>
     </ClCompile>
+    <ClCompile Include="7.切割回文.cpp">
+      <Filter>源文件\3.动态规划入门</Filter>
+    </ClCompile>
+    <ClCompile Include="8.棋盘分割.cpp">
+      <Filter>源文件\3.动态规划入门</Filter>
+    </ClCompile>
+    <ClCompile Include="1.去除冗余状态.cpp">
+      <Filter>源文件\4.动态规划的优化</Filter>
+    </ClCompile>
+    <ClCompile Include="2.1状态重定义.cpp">
+      <Filter>源文件\4.动态规划的优化</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2状态重定义.cpp">
+      <Filter>源文件\4.动态规划的优化</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
