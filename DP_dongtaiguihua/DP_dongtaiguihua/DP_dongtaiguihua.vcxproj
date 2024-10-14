@@ -23,8 +23,12 @@
     <ClCompile Include="1.数字三角形.cpp" />
     <ClCompile Include="2.01背包.cpp" />
     <ClCompile Include="2.2状态重定义.cpp" />
+    <ClCompile Include="3.1优化转移过程.cpp" />
     <ClCompile Include="2.容斥原理.cpp" />
     <ClCompile Include="2.1状态重定义.cpp" />
+    <ClCompile Include="3.2优化转移过程.cpp" />
+    <ClCompile Include="3.3优化转移过程.cpp" />
+    <ClCompile Include="3.4优化转移过程.cpp" />
     <ClCompile Include="3.完全背包.cpp" />
     <ClCompile Include="3.爬楼梯.cpp" />
     <ClCompile Include="1.初识.cpp" />

@@ -96,5 +96,17 @@
     <ClCompile Include="2.2状态重定义.cpp">
       <Filter>源文件\4.动态规划的优化</Filter>
     </ClCompile>
+    <ClCompile Include="3.1优化转移过程.cpp">
+      <Filter>源文件\4.动态规划的优化</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2优化转移过程.cpp">
+      <Filter>源文件\4.动态规划的优化</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3优化转移过程.cpp">
+      <Filter>源文件\4.动态规划的优化</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4优化转移过程.cpp">
+      <Filter>源文件\4.动态规划的优化</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
