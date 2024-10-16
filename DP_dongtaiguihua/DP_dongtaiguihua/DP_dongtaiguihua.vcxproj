@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="1.去除冗余状态.cpp" />
     <ClCompile Include="1.数字三角形.cpp" />
+    <ClCompile Include="1.洛谷P1108.cpp" />
     <ClCompile Include="2.01背包.cpp" />
     <ClCompile Include="2.2状态重定义.cpp" />
     <ClCompile Include="3.1优化转移过程.cpp" />
@@ -34,6 +35,7 @@
     <ClCompile Include="1.初识.cpp" />
     <ClCompile Include="4.墙壁涂色.cpp" />
     <ClCompile Include="4.多重背包.cpp" />
+    <ClCompile Include="4斜率优化.cpp" />
     <ClCompile Include="5.循环.cpp" />
     <ClCompile Include="1.数的划分.cpp" />
     <ClCompile Include="2.数的计算.cpp" />

@@ -108,5 +108,11 @@
     <ClCompile Include="3.4优化转移过程.cpp">
       <Filter>源文件\4.动态规划的优化</Filter>
     </ClCompile>
+    <ClCompile Include="4斜率优化.cpp">
+      <Filter>源文件\4.动态规划的优化</Filter>
+    </ClCompile>
+    <ClCompile Include="1.洛谷P1108.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
