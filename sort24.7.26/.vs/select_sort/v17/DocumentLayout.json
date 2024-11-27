@@ -3,39 +3,43 @@
   "WorkspaceRootPath": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\radix_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\radix_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\C\u002B\u002B_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\C\u002B\u002B_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\insert_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\insert_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\merge_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\merge_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\heap_sort\\heap_sort\\heap_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\select_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\select_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\merge_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\merge_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\shell_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\shell_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\radix_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\radix_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\practice_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\practice_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\select_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\select_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\quick_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\quick_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\insert_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\insert_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\bubble_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\bubble_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\C\u002B\u002B_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{484DF308-1E9E-4956-BEA9-FDD79D789696}|select_sort\\select_sort.vcxproj|solutionrelative:select_sort\\C\u002B\u002B_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,11 +49,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "radix_sort.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\radix_sort.cpp",
+              "RelativeDocumentMoniker": "select_sort\\radix_sort.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\radix_sort.cpp",
+              "RelativeToolTip": "select_sort\\radix_sort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T07:18:49.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shell_sort.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\shell_sort.cpp",
+              "RelativeDocumentMoniker": "select_sort\\shell_sort.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\shell_sort.cpp",
+              "RelativeToolTip": "select_sort\\shell_sort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T11:25:57.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "merge_sort.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\merge_sort.cpp",
+              "RelativeDocumentMoniker": "select_sort\\merge_sort.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\merge_sort.cpp",
+              "RelativeToolTip": "select_sort\\merge_sort.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T11:07:11.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "heap_sort.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\heap_sort\\heap_sort\\heap_sort.cpp",
+              "RelativeDocumentMoniker": "..\\heap_sort\\heap_sort\\heap_sort.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\heap_sort\\heap_sort\\heap_sort.cpp",
+              "RelativeToolTip": "..\\heap_sort\\heap_sort\\heap_sort.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwvwcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T11:26:16.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "practice_sort.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\practice_sort.cpp",
+              "RelativeDocumentMoniker": "select_sort\\practice_sort.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\practice_sort.cpp",
+              "RelativeToolTip": "select_sort\\practice_sort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T14:18:22.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "select_sort.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\select_sort.cpp",
+              "RelativeDocumentMoniker": "select_sort\\select_sort.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\select_sort.cpp",
+              "RelativeToolTip": "select_sort\\select_sort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T11:25:41.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "insert_sort.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\insert_sort.cpp",
+              "RelativeDocumentMoniker": "select_sort\\insert_sort.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\insert_sort.cpp",
+              "RelativeToolTip": "select_sort\\insert_sort.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T05:27:34.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "quick_sort.cpp",
+              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\quick_sort.cpp",
+              "RelativeDocumentMoniker": "select_sort\\quick_sort.cpp",
+              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\quick_sort.cpp",
+              "RelativeToolTip": "select_sort\\quick_sort.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAADkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T10:58:01.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "C\u002B\u002B_sort.cpp",
               "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\C\u002B\u002B_sort.cpp",
               "RelativeDocumentMoniker": "select_sort\\C\u002B\u002B_sort.cpp",
@@ -62,57 +170,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "radix_sort.cpp",
-              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\radix_sort.cpp",
-              "RelativeDocumentMoniker": "select_sort\\radix_sort.cpp",
-              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\radix_sort.cpp",
-              "RelativeToolTip": "select_sort\\radix_sort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-12T07:18:49.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "merge_sort.cpp",
-              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\merge_sort.cpp",
-              "RelativeDocumentMoniker": "select_sort\\merge_sort.cpp",
-              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\merge_sort.cpp",
-              "RelativeToolTip": "select_sort\\merge_sort.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-12T11:07:11.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "shell_sort.cpp",
-              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\shell_sort.cpp",
-              "RelativeDocumentMoniker": "select_sort\\shell_sort.cpp",
-              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\shell_sort.cpp",
-              "RelativeToolTip": "select_sort\\shell_sort.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-12T11:25:57.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "quick_sort.cpp",
-              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\quick_sort.cpp",
-              "RelativeDocumentMoniker": "select_sort\\quick_sort.cpp",
-              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\quick_sort.cpp",
-              "RelativeToolTip": "select_sort\\quick_sort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-14T10:58:01.911Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "bubble_sort.cpp",
               "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\bubble_sort.cpp",
@@ -121,45 +178,7 @@
               "RelativeToolTip": "select_sort\\bubble_sort.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-12T11:26:34.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "select_sort.cpp",
-              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\select_sort.cpp",
-              "RelativeDocumentMoniker": "select_sort\\select_sort.cpp",
-              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\select_sort.cpp",
-              "RelativeToolTip": "select_sort\\select_sort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-12T11:25:41.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "heap_sort.cpp",
-              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\heap_sort\\heap_sort\\heap_sort.cpp",
-              "RelativeDocumentMoniker": "..\\heap_sort\\heap_sort\\heap_sort.cpp",
-              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\heap_sort\\heap_sort\\heap_sort.cpp",
-              "RelativeToolTip": "..\\heap_sort\\heap_sort\\heap_sort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-12T11:26:16.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "insert_sort.cpp",
-              "DocumentMoniker": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\insert_sort.cpp",
-              "RelativeDocumentMoniker": "select_sort\\insert_sort.cpp",
-              "ToolTip": "D:\\please look svcr\\xiangmu\\c \u0026 c\u002B\u002B\\sort24.7.26\\select_sort\\insert_sort.cpp",
-              "RelativeToolTip": "select_sort\\insert_sort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-12T05:27:34.126Z",
+              "WhenOpened": "2024-09-12T11:26:34.364Z",
               "EditorCaption": ""
             }
           ]

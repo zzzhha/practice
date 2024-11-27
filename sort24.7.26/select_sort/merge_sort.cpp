@@ -3,8 +3,9 @@
 using namespace std;
 ////归并排序 O(nlogn) 稳定
 
-int* buff=new int[1000000];
+
 void merge_sort(int* arr, int l, int r) {
+	int* buff = new int[1000000];
 	if (r - l <= 1)
 		return;
 	int mid = (l + r) / 2;
@@ -33,7 +34,7 @@ void merge_sort(int* arr, int l, int r) {
 	}
 	for (int i = l; i < r; i++)//数组合并回原数组
 	{
-		arr[i] = buff[i - l];
+		arr[i] = buff[i - l];//i-l是因为，buff存储是从当前循环的局部变量k=0；开始的，也就是buff每次都是从头开始存储的
 	}
 	delete[]buff;
 	return;
