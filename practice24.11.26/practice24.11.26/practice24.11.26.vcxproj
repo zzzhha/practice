@@ -132,6 +132,7 @@
     <ClCompile Include="P1042.cpp" />
     <ClCompile Include="P1059.cpp" />
     <ClCompile Include="P1067多项式输出.cpp" />
+    <ClCompile Include="P1068.cpp" />
     <ClCompile Include="P1177.cpp" />
     <ClCompile Include="P1328.cpp" />
     <ClCompile Include="P1563.cpp" />
