@@ -51,5 +51,11 @@
     <ClCompile Include="P1068.cpp">
       <Filter>源文件\排序算法</Filter>
     </ClCompile>
+    <ClCompile Include="P1051.cpp">
+      <Filter>源文件\排序算法</Filter>
+    </ClCompile>
+    <ClCompile Include="P1309.cpp">
+      <Filter>源文件\排序算法</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

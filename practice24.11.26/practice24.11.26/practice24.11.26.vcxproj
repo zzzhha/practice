@@ -130,10 +130,12 @@
     <ClCompile Include="P1002过河卒.cpp" />
     <ClCompile Include="P1003铺地毯.cpp" />
     <ClCompile Include="P1042.cpp" />
+    <ClCompile Include="P1051.cpp" />
     <ClCompile Include="P1059.cpp" />
     <ClCompile Include="P1067多项式输出.cpp" />
     <ClCompile Include="P1068.cpp" />
     <ClCompile Include="P1177.cpp" />
+    <ClCompile Include="P1309.cpp" />
     <ClCompile Include="P1328.cpp" />
     <ClCompile Include="P1563.cpp" />
     <ClCompile Include="P2615.cpp" />
